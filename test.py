@@ -1,4 +1,6 @@
 print("Hello World")
 #hello
+#Suhaib
+var =input("what is your name? ")
 
-#Lol
+print(var)
